@@ -1,2 +1,2 @@
-# solidity
-solidity
+# solidity learning
+solidity learning repository
