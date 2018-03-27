@@ -1,0 +1,32 @@
+{
+  "name": "solidity-learning",
+  "version": "1.0.0",
+  "description": "Learning solidity smart contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "solc": "^0.4.21",
+    "zeppelin-solidity": "1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janiskomuls/solidity-learning.git"
+  },
+  "keywords": [
+    "solidity",
+    "contracts",
+    "ethereum"
+  ],
+  "author": "janiskomuls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janiskomuls/solidity-learning/issues"
+  },
+  "homepage": "https://github.com/janiskomuls/solidity-learning#readme"
+}
